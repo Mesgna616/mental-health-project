@@ -57,11 +57,11 @@ h1 {
 }
 
 .intro {
-    background-image: url("/img-nage/indexintro.png");
+    background-image: url("../img/images6.jpeg");
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 60rem;
+    height: 75rem;
     overflow: auto;
     display: flex;
     justify-content: center;
